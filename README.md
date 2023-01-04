@@ -16,19 +16,8 @@
 
 ### Video Tutorial Firebase auth dengan Google dan Github
 
-https://drive.google.com/file/d/1hDXRXXXtaYDPrKzGASVXv0DnACRelKHx/view
+*Link Video -> https://drive.google.com/file/d/1hDXRXXXtaYDPrKzGASVXv0DnACRelKHx/view
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="https://drive.google.com/file/d/1hDXRXXXtaYDPrKzGASVXv0DnACRelKHx/preview" width="640" height="480" allow="autoplay"></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1hDXRXXXtaYDPrKzGASVXv0DnACRelKHx/preview" ></iframe>
 
-</body>
-</html>
 
 
