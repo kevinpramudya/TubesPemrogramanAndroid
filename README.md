@@ -9,6 +9,8 @@
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wdLubkVFjIg/0.jpg)](https://www.youtube.com/watch?v=wdLubkVFjIg)
   
 ### Video Tutorial Android Testing dengan Mockito
+https://youtu.be/xzU00w8mttc
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xzU00w8mttc/0.jpg)](https://www.youtube.com/watch?v=xzU00w8mttc)
 
 ### Video Tutorial Firebase auth dengan Google dan Github
 
