@@ -1,4 +1,4 @@
-# TubesPemrogramanMobile
+# Tugas Besar Pemrograman Mobile
 
 ## Pembagian Tugas 
 - Firebase auth dengan Google dan Github: Oleh Neng Linda Rahayu 1972042
