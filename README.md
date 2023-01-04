@@ -6,6 +6,7 @@
 - Android Testing dengan Mockito : oleh Juan Refan Herlambang 1972024
 
 ### Video Tutorial ViewModel
+*Click image for playing the video or use this link -> (https://youtu.be/wdLubkVFjIg) <br />
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wdLubkVFjIg/0.jpg)](https://www.youtube.com/watch?v=wdLubkVFjIg)
   
 ### Video Tutorial Android Testing dengan Mockito
