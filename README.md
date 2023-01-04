@@ -1,5 +1,5 @@
-# <p align="center">
-Tugas Besar Teori Pemrograman Mobile
+<p align="center">
+  #Tugas Besar Teori Pemrograman Mobile
 </p>
 
 ## Pembagian Tugas 
