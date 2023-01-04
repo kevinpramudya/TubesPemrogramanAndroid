@@ -1,6 +1,5 @@
-<p align="center">
+
   #Tugas Besar Teori Pemrograman Mobile
-</p>
 
 ## Pembagian Tugas 
 - Firebase auth dengan Google dan Github: Oleh Neng Linda Rahayu 1972042
